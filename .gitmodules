@@ -1,0 +1,48 @@
+[submodule "collectd"]
+	path = /opt/ports/buckbucks-kingdom/collectd
+	url = https://github.com/collectd/collectd
+[submodule "fisherman"]
+	path = /opt/ports/buckbucks-kingdom/fisherman
+	url = https://github.com/jorgebucaran/fisher
+[submodule "gitea"]
+	path = /opt/ports/buckbucks-kingdom/gitea
+	url = https://github.com/go-gitea/gitea
+[submodule "diy-jails"]
+	path = /opt/ports/buckbucks-kingdom/diy-jails
+	url = https://github.com/skunkwerks/diy-jails
+[submodule "graylog2-server"]
+	path = /opt/ports/buckbucks-kingdom/graylog2-server
+	url = https://github.com/skunkwerks/graylog2-server
+[submodule "vmadm"]
+	path = /opt/ports/buckbucks-kingdom/vmadm
+	url = https://github.com/skunkwerks/vmadm
+[submodule "h2o"]
+	path = /opt/ports/buckbucks-kingdom/h2o
+	url = https://github.com/h2o/h2o
+[submodule "oports"]
+	path = /opt/ports/buckbucks-kingdom/oports
+	url = https://github.com/skunkwerks/oports
+[submodule "riemann"]
+	path = /opt/ports/buckbucks-kingdom/riemann
+	url = https://github.com/riemann/riemann
+[submodule "ansible"]
+	path = /opt/ports/buckbucks-kingdom/ansible
+	url = https://github.com/ansible/ansible
+[submodule "riemann-ruby-client"]
+	path = /opt/ports/buckbucks-kingdom/riemann-ruby-client
+	url = https://github.com/riemann/riemann-ruby-client
+[submodule "riemann-dash"]
+	path = /opt/ports/buckbucks-kingdom/riemann-dash
+	url = https://github.com/riemann/riemann-dash
+[submodule "riemann-tools"]
+	path = /opt/ports/buckbucks-kingdom/riemann-tools
+	url = https://github.com/riemann/riemann-tools
+[submodule "ansible-sshjail"]
+	path = /opt/ports/buckbucks-kingdom/ansible-sshjail
+	url = https://github.com/austinhyde/ansible-sshjail
+[submodule "FUSE"]
+	path = /opt/ports/buckbucks-kingdom/fuse
+	url = https://github.com/bazil/fuse
+[submodule "simple"]
+	path = /opt/ports/buckbucks-kingdom/simple
+	url = https://github.com/skunkwerks/simple
