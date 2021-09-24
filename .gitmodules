@@ -23,7 +23,7 @@
 	path = /opt/ports/buckbucks-kingdom/oports
 	url = https://github.com/skunkwerks/oports
 [submodule "riemann"]
-	path = /opt/ports/buckbucks-kingdom/riemann
+	path = /opt/ports/buckbucks-kingdom/riemann/work
 	url = https://github.com/riemann/riemann
 [submodule "ansible"]
 	path = /opt/ports/buckbucks-kingdom/ansible
